@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.expense.icu
+MONGODB_HOST: mongodb-{{ env }}.expense.icu
